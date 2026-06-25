@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.on004738-blue)](https://doi.org/10.82901/nemar.on004738)
+
 This dataset is a part of the data used for the study: 'Bahners B.H., Lofredi R. , Sander T., Schnitzler A., Kuhn A.A., Florin E. Deep brain stimulation device-specific artefacts in MEG recordings. 2023, submitted. doi: tba'
 
 
